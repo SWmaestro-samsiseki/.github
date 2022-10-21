@@ -10,9 +10,10 @@
 
 번화가에서 번화가에서 손쉽게 단체예약을 진행하고, 바로바로 이용할 수 있는 주점을 찾기 위한 주점 이용자와 손님들의 예약목록들을 손쉽게 관리하고 높은 테이블 회전율을 지향하는 주점업자들을 연결해줄 수 있는 실시간 예약 서비스
 
-<img width="576" alt="스크린샷 2022-09-26 오후 5 43 26" src="https://user-images.githubusercontent.com/55343124/195804689-62fe2931-0d02-4402-b706-dadc28a0a3d2.png">
+<img width="500" alt="스크린샷 2022-09-26 오후 5 43 26" src="https://user-images.githubusercontent.com/55343124/195804689-62fe2931-0d02-4402-b706-dadc28a0a3d2.png">
 
-<img width="585" alt="스크린샷 2022-09-26 오후 5 43 40" src="https://user-images.githubusercontent.com/55343124/195804702-aaf5ed33-8cfb-4734-b597-72ceb4ee6a32.png">
+<img width="500" alt="스크린샷 2022-09-26 오후 5 43 40" src="https://user-images.githubusercontent.com/55343124/195804702-aaf5ed33-8cfb-4734-b597-72ceb4ee6a32.png">
+
 
 ## 프로젝트 기간
 
@@ -20,6 +21,7 @@
 `2022.06` ~ `2022.07`
 #### 개발
 `2022.07` ~ `2022.11`
+
 
 ## 기능 소개
 
@@ -35,11 +37,24 @@
 - 주점 이용자는 제한된 시간 내에 해당 주점에 방문했다면 체크인 처리를 한다.
 - 주점업자는 시스템에 표시되는 체크인 주점 이용자에 대해 약속한 혜택을 제공한다.
 
+
 ## 서비스 구성도
 
 ![지금갈게 서비스구성도(발표용) drawio (1)](https://user-images.githubusercontent.com/55343124/195805375-8f00526b-5bcd-477c-89bb-99a09d7af190.png)
 
+
 ## 발표 자료
+
+- [중간 보고서](./.github/중간보고서.pdf)
+- [중간 발표 PPT 자료](./.github/중간발표PPT.pdf)
+
 
 ## 팀 소개
 
+#### [TEAM 삼시세끼](https://plausible-forsythia-06e.notion.site/TEAM-7a672786889544ea828e78481bfcc765)
+- 백준호 [@junho100](https://github.com/junho100)
+  - Leader(PM), Beakend(NestJS, TypeScript)
+- 최지윤 [@J1Yun](https://github.com/J1Yun)
+  - Beakend(NestJS, TypeScript), Database(MySQL)
+- 한재혁 [@JaeHyeok-Han](https://github.com/JaeHyeok-Han)
+  - Frontend(ReactJS), DesignManager
