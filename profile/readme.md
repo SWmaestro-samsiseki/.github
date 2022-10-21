@@ -53,8 +53,8 @@
 
 #### [TEAM 삼시세끼](https://plausible-forsythia-06e.notion.site/TEAM-7a672786889544ea828e78481bfcc765)
 - 백준호 [@junho100](https://github.com/junho100)
-  - Leader(PM), Beakend(NestJS, TypeScript)
+  - Leader(PM), Backend(NestJS, TypeScript)
 - 최지윤 [@J1Yun](https://github.com/J1Yun)
-  - Beakend(NestJS, TypeScript), Database(MySQL)
+  - Backend(NestJS, TypeScript), Database(MySQL)
 - 한재혁 [@JaeHyeok-Han](https://github.com/JaeHyeok-Han)
   - Frontend(ReactJS), DesignManager
