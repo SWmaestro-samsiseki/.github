@@ -1,19 +1,22 @@
 # 지금갈게 (Come-Right-Now)
 
-<img width="759" alt="KakaoTalk_Photo_2022-09-29-13-52-25" src="https://user-images.githubusercontent.com/64777557/192941901-48572bd6-7a7c-4e19-86cb-aab0a0fb8db9.png">
+![image](https://user-images.githubusercontent.com/64777557/216317873-c13e35ac-5126-4811-8d4b-85ee947b88e0.png)
 
 ---
 
 ## 개요
 
-> "저희 5명이고 20분 뒤 갈 것 같은데 거기 자리 있을까요?
+> "저희 5명이고 20분 뒤 도착할 것 같은데 거기 자리 있을까요?
 
-번화가에서 번화가에서 손쉽게 단체예약을 진행하고, 바로바로 이용할 수 있는 주점을 찾기 위한 주점 이용자와 손님들의 예약목록들을 손쉽게 관리하고 높은 테이블 회전율을 지향하는 주점업자들을 연결해줄 수 있는 실시간 예약 서비스
+</br>
 
-<img width="500" alt="스크린샷 2022-09-26 오후 5 43 26" src="https://user-images.githubusercontent.com/55343124/195804689-62fe2931-0d02-4402-b706-dadc28a0a3d2.png">
+**“실시간 주점 자리탐색 및 예약 서비스”**
 
-<img width="500" alt="스크린샷 2022-09-26 오후 5 43 40" src="https://user-images.githubusercontent.com/55343124/195804702-aaf5ed33-8cfb-4734-b597-72ceb4ee6a32.png">
+: 번화가에서 **지금 당장 이용할 수 있는 주변 주점**을 찾아 실시간으로 예약까지 체결하는 위치 기반 020 서비스
 
+▶️ ['지금갈게' 서비스 소개 페이지](https://spotted-green-b02.notion.site/8b1646e069614d41ae0f813af0aca0db)
+
+</br>
 
 ## 프로젝트 기간
 
@@ -22,6 +25,7 @@
 #### 개발
 `2022.07` ~ `2022.11`
 
+</br>
 
 ## 기능 소개
 
@@ -37,17 +41,20 @@
 - 주점 이용자는 제한된 시간 내에 해당 주점에 방문했다면 체크인 처리를 한다.
 - 주점업자는 시스템에 표시되는 체크인 주점 이용자에 대해 약속한 혜택을 제공한다.
 
+</br>
 
 ## 서비스 구성도
 
 ![지금갈게 서비스구성도(발표용) drawio (1)](https://user-images.githubusercontent.com/55343124/195805375-8f00526b-5bcd-477c-89bb-99a09d7af190.png)
 
+</br>
 
 ## 발표 자료
 
 - [중간 보고서](./.github/중간보고서.pdf)
 - [중간 발표 PPT 자료](./.github/중간발표PPT.pdf)
 
+</br>
 
 ## 팀 소개
 
